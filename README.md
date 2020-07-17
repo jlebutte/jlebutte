@@ -4,7 +4,7 @@ My name is Julien Lebutte, I'm based in Belgium
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/jlebutte)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julienlebutte/)
-[![Twitter](https://img.shields.io/twitter/follow/julienlebutte?label=Twitter&style=for-the-badgee)](https://twitter.com/julienlebutte/)
+[![Twitter](https://img.shields.io/twitter/follow/julienlebutte?label=Twitter&style=flat-square&logo=twitter)](https://twitter.com/julienlebutte/)
 
 ## 💼 Job
 
